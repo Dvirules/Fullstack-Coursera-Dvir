@@ -1,0 +1,33 @@
+
+
+*{
+  box-sizing: border-box;
+}
+
+#header-nav{
+  border-color: black;
+  border-width: 1px;
+  background-color: orange;
+}
+
+#header-nav > h1{
+  padding-left: 25px;
+  font-size: 1.8em;
+  color: black;
+}
+
+li {
+  border-style: solid;
+  border-width: 1px;
+}
+
+
+#menu{
+  background-color: yellow; 
+}
+
+#collapsable-nav{
+  background-color: green;
+  color:black;
+}
+
